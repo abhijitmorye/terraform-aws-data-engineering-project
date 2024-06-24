@@ -204,7 +204,6 @@ terraform apply --auto-approve
 
 - The random_id resource ensures the S3 bucket name is unique, preventing naming conflicts.
 
-Data file has been deleted since file size exceeded for github push. You can find the lnk for dataset in description.
 
 ## Referance/Tutorial that I followed
 
